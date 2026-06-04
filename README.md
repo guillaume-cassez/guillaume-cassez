@@ -7,7 +7,7 @@
   <a href="https://guillaume-cassez.fr">guillaume-cassez.fr</a> ·
   <a href="https://orcid.org/0009-0007-0987-3931">ORCID</a> ·
   <a href="https://openalex.org/A5134353579">OpenAlex</a> ·
-  <a href="https://www.linkedin.com/in/guillaume-cassez-4559b8199/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/guillaume-cassez/">LinkedIn</a> ·
   <a href="https://doi.org/10.5281/zenodo.19695263">Paper</a>
 </p>
 
